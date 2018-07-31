@@ -1,0 +1,28 @@
+{
+  "port": 3005,
+  "debug": false,
+  "hashSalt": "fasdf@##hiadg*(ddd_~!@#)",
+  "secret": "fc-GYq@(tzl_59)",
+  "maiyaSecret": "fc-GYq@(tzl_59)",
+  "admin": "today*71",
+  "redis": {
+    "host": "127.0.0.1",
+    "port": "6379",
+    "password": "123456"
+  },
+  "session": {
+    "secret": "as;ldgalds@gjdddglad(xxx~#)dfg"
+  },
+  "soapAccount": "http://api.maiya.com/MaiyaWeixin.php?wsdl",
+  "dbApp": {
+    "host": "rm-wz9319lw72idg5xsu.mysql.rds.aliyuncs.com",
+    "user": "maiyatest",
+    "password": "Desoarr2018",
+    "port": 3306,
+    "database": "maimeng",
+    "connectionLimit": 8,
+    "waitForConnections": true,
+    "queueLimit": 0,
+    "connectTimeout": 10000
+  }
+}

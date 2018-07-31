@@ -1,0 +1,27 @@
+{
+  "port": 8888,
+  "debug": true,
+  "hashSalt": "fasdf@##hiadg*(ddd_~!@#)",
+  "secret": "fc-GYq@(tzl_59)",
+  "maiyaSecret": "fc-GYq@(tzl_59)",
+  "admin": "today*71",
+  "redis": {
+    "host": "127.0.0.1",
+    "port": 6379,
+    "password": 123456
+  },
+  "session": {
+    "secret": "as;ldgalds@gjdglad(xxx~#)dfg"
+  },
+  "dbApp": {
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "yijiaqing520",
+    "port": 3306,
+    "database": "xiangerla",
+    "connectionLimit": 8,
+    "waitForConnections": true,
+    "queueLimit": 0,
+    "connectTimeout": 10000
+  }
+}
